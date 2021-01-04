@@ -8,3 +8,7 @@ do some stuff
 
 smurfs
 
+
+
+Hi scott, thank you for your videos. I just wanna send this PR myself
+
